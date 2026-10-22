@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "TITLE"
+version: "1.0"
+date-released: "YYYY-MM-DD"
+license: CC-BY-4.0
+url: "https://jdada360.github.io/projects/POST-FOLDER/"
+repository-code: "https://github.com/jdada360/REPO"
+authors:
+  - family-names: Dada
+    given-names: Joy
+    orcid: "https://orcid.org/0009-0006-1734-8048"
+    affiliation: "Johns Hopkins Bloomberg School of Public Health"
+keywords:
+  - KEYWORD

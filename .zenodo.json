@@ -1,0 +1,23 @@
+{
+  "title": "TITLE",
+  "upload_type": "dataset",
+  "description": "<p>SUMMARY. Interactive write-up: https://jdada360.github.io/projects/POST-FOLDER/</p>",
+  "creators": [
+    {
+      "name": "Dada, Joy",
+      "orcid": "0009-0006-1734-8048",
+      "affiliation": "Johns Hopkins Bloomberg School of Public Health"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "KEYWORD"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://jdada360.github.io/projects/POST-FOLDER/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    }
+  ]
+}
